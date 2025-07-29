@@ -31,3 +31,9 @@ Este proyecto fue realizado en el desafio 1 del curso Alura Latam. Esto con la f
 - `FUNCIONALIDAD 1`: Recibe un nombre de un amigo
 - `Funcionalidad 2`: Se crea una lista de los amigos que recibidos
 - `Funcionalidad 3`: A partir de la lista de los amigos recibidos, devuelve un nombre aleagtorio
+
+## 🚀 Tecnologias utilizadas
+
+- JavaScript
+- HTML
+- CSS
