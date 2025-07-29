@@ -2,3 +2,10 @@
 <p align= "left">
   <img src= "https://img.shields.io/badge/status-terminado-green">
 </p>
+
+# ÍNDICE
+
+* [INTRODUCCIÓN](*introducción)
+* [USO](*uso)
+* [FINALIZACIÓN](*finalización)
+
