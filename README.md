@@ -18,3 +18,9 @@
 <p align="justify">
 Este proyecto fue realizado en el desafio 1 del curso Alura Latam. Esto con la finalidad de poner en práctica los fundamentos iniciales del lenguaje de programación JavaScript. 
 </p>
+
+## Estado del proyecto
+
+<h2 align="center">
+  😆 Proyecto terminado 😎
+</h2>
