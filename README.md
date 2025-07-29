@@ -24,3 +24,10 @@ Este proyecto fue realizado en el desafio 1 del curso Alura Latam. Esto con la f
 <h2 align="center">
   😆 Proyecto terminado 😎
 </h2>
+
+## Características de la aplicación y demostración 
+
+## 🛠️ Funcionalidades del proyecto
+- `FUNCIONALIDAD 1`: Recibe un nombre de un amigo
+- `Funcionalidad 2`: Se crea una lista de los amigos que recibidos
+- `Funcionalidad 3`: A partir de la lista de los amigos recibidos, devuelve un nombre aleagtorio
