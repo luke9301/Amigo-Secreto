@@ -37,3 +37,8 @@ Este proyecto fue realizado en el desafio 1 del curso Alura Latam. Esto con la f
 - JavaScript
 - HTML
 - CSS
+
+## Conclusión
+<p align= "justify">
+  Si bien es un proyeco que a la vista puede parecer simple, y con algunos elementos que desafían, lo que me permitió  conocer otras herramientas que en el día día d eun programador, son indispensables, como lo es github. 
+</p>
