@@ -28,9 +28,14 @@ Este proyecto fue realizado en el desafio 1 del curso Alura Latam. Esto con la f
 <p align= "justify" id= "caracteristicas">
 🛠️ Funcionalidades del proyecto
 
-- `FUNCIONALIDAD 1`: Recibe un nombre de un amigo 
-- `Funcionalidad 2`: Se crea una lista de los amigos que recibidos
-- `Funcionalidad 3`: A partir de la lista de los amigos recibidos, devuelve un nombre aleagtorio
+- `FUNCIONALIDAD 1`: Recibe en el cuadro de texto el nombre de amigos, con los que se vaya a sortear
+<img src="https://github.com/luke9301/Amigo-Secreto/blob/main/assets/img/Dise%C3%B1o%20sin%20t%C3%ADtulo.gif">
+
+- `FUNCIONALIDAD 2`: Cada que se vaya escribiendo el nombre de un amigo se va dando click en el boton agregar, y dicho amigo estará apareciendo en la parte de abajo.
+<img src="https://github.com/luke9301/Amigo-Secreto/blob/main/assets/img/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(1).gif">
+
+- `FUNCIONALIDAD 3`: A partir de la lista de los amigos recibidos, se da click en sortear amigo, y la función devuelve el nombre de la persona seleccionada
+<img src="https://github.com/luke9301/Amigo-Secreto/blob/main/assets/img/Dise%C3%B1o%20sin%20t%C3%ADtulo%20(2).gif">
   </p>
 # 🚀 Tecnologias utilizadas
 <p align= "justify" id="tecnologias">
